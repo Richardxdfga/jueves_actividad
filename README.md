@@ -3,6 +3,6 @@
 ### Programacion React
 #### Integrantes:
 - PAREDES ZAFRA JOSE MANUEL
-- RICARDO
-- fabianoriundo
+- RICARDO IMGA BELLIDO
+- FABIAN ORIUNDO
 - GUTIERREZ FASABI ROSSANA
