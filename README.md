@@ -2,7 +2,7 @@
 ## FullStackDeveloper
 ### Programacion React
 #### Integrantes:
-- **BPJOSE
-- **Richardxdfga
-- **fabianoriundo
-- **rossanagutfa
+- PAREDES ZAFRA JOSE MANUEL
+- RICARDO
+- fabianoriundo
+- GUTIERREZ FASABI ROSSANA
