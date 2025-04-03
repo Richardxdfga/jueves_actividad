@@ -1,8 +1,8 @@
-Gestion de proyecto
-FullStackDeveloper
-Programacion React
-Integrantes:
-BPJOSE
-Richardxdfga
-fabianoriundo
-rossanagutfa
+# Gestion de proyecto
+## FullStackDeveloper
+### Programacion React
+#### Integrantes:
+- **BPJOSE
+- **Richardxdfga
+- **fabianoriundo
+- **rossanagutfa
